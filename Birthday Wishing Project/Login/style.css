@@ -1,0 +1,27 @@
+#header {
+    background-color: aquamarine;
+    text-align: center;
+    width:fit-content;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    font-size: large;
+    text-align: center;
+    margin: auto;
+    border: 5px solid black;
+    font-family:cursive;
+}
+body {
+    background-color:crimson;
+}
+main {
+    font-family:cursive;
+}
+footer {
+    background-color:aqua;
+    font-family:cursive;
+}
+.form {
+    font-size: 30px;
+}

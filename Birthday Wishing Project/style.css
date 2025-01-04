@@ -1,0 +1,29 @@
+header {
+    background-color: aqua;
+    color: blue;
+    text-align: center;
+    padding-bottom: 5px;
+    font-family:cursive;
+}
+body {
+    background-color:cadetblue;
+}
+main {
+    background-color: aliceblue;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding:1cap;
+    font-family:cursive;
+}
+footer {
+    background-color:aqua;
+    font-family:cursive;
+}
+#button1 {
+    width: 100px;
+    height: 50px;
+    font-size: large;
+    color: red;
+    font-family:cursive;
+    background-color:chartreuse;
+}
