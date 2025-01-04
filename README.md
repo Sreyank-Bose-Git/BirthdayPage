@@ -18,7 +18,7 @@ And is the first website that has multiple pages that are for different purposes
 
 To use this project, you may install the php compiler and create a local server by using the command:
 
-                php -S localhost:<the prefered port>
+    php -S localhost:<the prefered port>
 
 Make sure you run this command in the project directory.
 
